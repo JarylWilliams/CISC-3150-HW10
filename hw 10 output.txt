@@ -1,0 +1,40 @@
+Microsoft Windows [Version 10.0.16299.431]
+(c) 2017 Microsoft Corporation. All rights reserved.
+
+C:\Users\Jaryl>cd desktop
+
+C:\Users\Jaryl\Desktop>cd AbcThread
+
+C:\Users\Jaryl\Desktop\AbcThread>cd src
+
+C:\Users\Jaryl\Desktop\AbcThread\src>javac AbcThread.java
+
+C:\Users\Jaryl\Desktop\AbcThread\src>java AbcThread
+a
+b
+c
+d
+e
+f
+g
+h
+i
+j
+k
+l
+m
+n
+o
+p
+q
+r
+s
+t
+u
+v
+w
+x
+y
+z
+
+C:\Users\Jaryl\Desktop\AbcThread\src>
